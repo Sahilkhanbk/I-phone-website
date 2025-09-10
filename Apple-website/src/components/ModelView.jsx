@@ -5,6 +5,14 @@ import { Suspense } from 'react';
 import * as THREE from 'three'
 import Loader from './Loader';
 
+
+
+
+
+
+
+
+
 const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, size, item }) => {
   return (
     <View index={index} id={gsapType}
@@ -44,3 +52,4 @@ const ModelView = ({ index, groupRef, gsapType, controlRef, setRotationState, si
 };
 
 export default ModelView;
+
