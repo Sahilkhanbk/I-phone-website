@@ -14,7 +14,6 @@ import { useEffect, useRef, useState } from "react";
 
 
 
-
 import { hightlightsSlides } from '../constant'
 import { pauseImg, playImg, replayImg } from "../utils";
 
@@ -247,5 +246,6 @@ const VideoCarousel = () => {
 
 
 export default VideoCarousel;
+
 
 
