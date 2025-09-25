@@ -11,7 +11,6 @@ import {
 
 
 
-
 export const navLists = ["Store", "Mac", "iPhone", "Support"];
 
 export const hightlightsSlides = [
@@ -89,6 +88,7 @@ export const footerLinks = [
   "Site Map",
 
 ];
+
 
 
 
