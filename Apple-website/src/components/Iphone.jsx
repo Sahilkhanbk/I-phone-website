@@ -8,7 +8,6 @@ Title: Apple iPhone 15 Pro Max Black
 
 
 
-
 import * as THREE from 'three';
 import React, { useEffect, useRef } from "react";
 import { useGLTF, useTexture } from "@react-three/drei";
@@ -263,6 +262,7 @@ export default Model;
 
 
 useGLTF.preload("/models/scene.glb");
+
 
 
 
