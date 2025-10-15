@@ -16,7 +16,6 @@ export const navLists = ["Store", "Mac", "iPhone", "Support"];
 
 
 
-
 export const hightlightsSlides = [
   {
     id: 1,
@@ -92,6 +91,7 @@ export const footerLinks = [
   "Site Map",
 
 ];
+
 
 
 
